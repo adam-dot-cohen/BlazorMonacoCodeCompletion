@@ -1,17 +1,12 @@
-<p align="center"><img src="https://raw.githubusercontent.com/serdarciplak/BlazorMonaco/master/BlazorMonaco/icon.png" width="150" height="150" /></p>
+<h1 align="center">BlazorMonaco w/ Code Completion Apr 22 Code Completion PR</h1>
 
-<p align="center">
-<a href="https://www.nuget.org/packages/BlazorMonaco/"><img src="https://buildstats.info/nuget/BlazorMonaco" /></a>
-</p>
-
-<h1 align="center">BlazorMonaco</h1>
-
-Blazor component for Microsoft's [Monaco Editor](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code.
-
+BlazorMonaco - https://github.com/serdarciplak/BlazorMonaco<br>
+Code Completion PR - https://github.com/serdarciplak/BlazorMonaco/pull/61
+<hr>
 Not the complete set but most of the Monaco Editor functionality is currently supported. The package will be updated regularly to cover all the features and use cases soon. Any contributions, comments or suggestions are greatly welcome. Please feel free to contact me at [@serdarciplak](https://twitter.com/serdarciplak) or via GitHub.
 
 Current version of BlazorMonaco :
-* Works with Monaco Editor v0.22.3
+* Works with Monaco Editor v0.33.3
 * Built and tested for netstandard2.0 and net5.0
 
 ## Demo
