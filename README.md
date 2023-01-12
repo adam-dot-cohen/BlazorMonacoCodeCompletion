@@ -1,4 +1,4 @@
-<h1 align="center">BlazorMonaco w/ Unmerged Code Completion PR (Apr 22)</h1>
+<h1 align="center">BlazorMonaco w/ Merged Code Completion PR (Apr 22)</h1>
 
 BlazorMonaco - https://github.com/serdarciplak/BlazorMonaco<br>
 Code Completion PR - https://github.com/serdarciplak/BlazorMonaco/pull/61
