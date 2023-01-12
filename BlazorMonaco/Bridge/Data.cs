@@ -180,7 +180,7 @@ namespace BlazorMonaco
 
         public bool Preselect { get; set; }
     }
-}
+
 
     public class UriComponents
     {
