@@ -1,0 +1,31 @@
+{
+  "FilePath": "e:\\github\\BlazorMonacoCodeCompletion\\BlazorMonaco\\BlazorMonaco\\BlazorMonaco.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "BlazorMonaco",
+  "Documents": [
+    {
+      "FilePath": "e:\\github\\BlazorMonacoCodeCompletion\\BlazorMonaco\\BlazorMonaco\\MonacoDiffEditor.razor",
+      "TargetPath": "MonacoDiffEditor.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\github\\BlazorMonacoCodeCompletion\\BlazorMonaco\\BlazorMonaco\\MonacoEditorBase.razor",
+      "TargetPath": "MonacoEditorBase.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "e:\\github\\BlazorMonacoCodeCompletion\\BlazorMonaco\\BlazorMonaco\\MonacoEditor.razor",
+      "TargetPath": "MonacoEditor.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
